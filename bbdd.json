@@ -1,0 +1,59 @@
+{
+  "empresa": "Abregu",
+  "ruc": "2415222",
+  "logo": "https://www.logo.com/img1",
+  "logoLoca": "./img",
+
+  "productos": {
+    "categoriaA": [
+      {
+      
+      "modelo": "MT-02",
+      "marca": "MAZDA",
+      "cantidad": 4,
+      "precio": 4.52,
+      "caracteristicas": {}
+    
+      },
+      { 
+      "modelo": "MT-03",
+      "marca": "NISSAN",
+      "cantidad": 4,
+      "precio": 4.52,
+      "caracteristicas": {}
+      }
+    ],
+    "categoriaB": [
+      {
+        "modelo": "MT-02",
+        "marca": "MAZDA",
+        "cantidad": 4,
+        "precio": 4.52,
+        "caracteristicas": {},
+        "tipo": "A"
+      
+        },
+        { 
+        "modelo": "MT-03",
+        "marca": "NISSAN",
+        "cantidad": 4,
+        "precio": 4.52,
+        "caracteristicas": {
+          "alto": "2mt",
+          "ancho": "1mt"
+
+        },
+        "tipo": "A"
+        },
+        { 
+        "modelo": "MT-04",
+        "marca": "NISSAN",
+        "cantidad": 4,
+        "precio": 4.52,
+        "caracteristicas": {},
+        "tipo": "B"
+        }
+      ]
+    }
+  }
+
